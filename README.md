@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**15** solved · 12 problems · 0 labs · 3 math
+**16** solved · 13 problems · 0 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -24,6 +24,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2026-09-22 | [solution](problems/0205-entropy-cross-entropy) |
 | [Implement PReLU Forward and Backward Pass](https://www.deep-ml.com/problems/98) | medium | 2026-09-19 | [solution](problems/0098-implement-prelu-forward-and-backward-pass) |
 | [LoRA: Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/222) | medium | 2026-11-16 | [solution](problems/0222-lora-low-rank-adaptation-forward-pass) |
+| [QLoRA: Quantized Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/223) | medium | 2026-11-16 | [solution](problems/0223-qlora-quantized-low-rank-adaptation-forward-pass) |
 
 ## Math
 
